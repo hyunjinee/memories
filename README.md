@@ -1,2 +1,2 @@
-# memories-app
+# memories
 :calendar: record your life
